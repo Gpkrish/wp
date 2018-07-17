@@ -1,0 +1,69 @@
+.topbarmenu ul li a {
+    font-family: roboto;
+    font-size: 12px;
+}
+
+
+/* to remove the space between slider and first-row widget */
+
+.sliderclass {
+	padding: 0;
+}
+
+.contentclass .clearfix:after {
+	content: none !important;
+}
+
+@media (max-width: 768px){
+    div#pgc-13-0-0 .sow-slider-base ul.sow-slider-images li.sow-slider-image {
+    height:700px !important;
+}
+}
+
+#containerfooter p {
+    font-size: 12px;
+    color:white;
+    
+}
+
+.footernav ul li a {
+    font-size: 14px;
+    color: white;
+}
+.footernav ul li a:hover {
+    color: white; }
+
+.footercredits {
+    width: 100%;
+    text-align: center;
+}
+.footernav ul li {
+    float: none;
+    display: inline-block;
+}
+.footernav {
+    float: none;
+}
+.footernav ul {
+    width: 100%;
+}
+
+
+@media (max-width: 768px) {
+.so-widget-ink-tabs-tabs-faed3eff40c6 .iw-so-tabs .iw-so-tab-title a {
+    min-width: 310px;
+    margin-bottom: 4px;
+}
+div#pgc-13-2-0 {
+    width: 100%;
+}
+}
+
+@media (max-width: 992px) {
+img.alignnone.wp-image-37 {
+    display: inline;
+}
+div#panel-13-8-0-0 p {
+    padding: 0 !important;
+}
+}
