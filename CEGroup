@@ -67,3 +67,7 @@ div#panel-13-8-0-0 p {
     padding: 0 !important;
 }
 }
+
+
+/* smooth scroll single page */
+<script type="text/javascript">jQuery(window).load(function () {jQuery('#nav-main').localScroll({offset: -110});jQuery.localScroll.hash({offset: -110});});</script>
