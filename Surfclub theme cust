@@ -1,0 +1,70 @@
+@media (min-width: 1200px) {.extra-wrap.style-1 {
+    min-height: 300px; }} 
+
+.post-author {
+display: none;
+}
+
+.nocomments {
+display: none;
+}
+
+.post__holder .post_content p
+{
+color: #ffffff;
+font-size: 16px;
+}
+
+ .testimonial_bq p {
+font-family: Lato !important;
+font-size: 14px !important;
+line-height: 15px !important;
+color: #a1eadc !important;
+font-style: normal !important;
+display: block;
+}
+
+.testimonial_content blockquote {
+    -webkit-margin-before: 1em;
+    -webkit-margin-after: 1em;
+    -webkit-margin-start: 40px;
+    -webkit-margin-end: 40px;
+}
+
+
+.testimonial small span {
+color: #ffffff;
+}
+
+
+.header {
+height: 40vh !important;
+background: #fff url(images/SurfTrip3.jpg) center 0 no-repeat !important:
+}
+
+
+.header {
+background-repeat: no-repeat !important;
+}
+
+
+body:not(.home) .logo {
+display: none !important;
+}
+
+.testimonial_content {
+font-family: Lato !important;
+font-size: 14px !important;
+line-height: 15px !important;
+color: #a1eadc !important;
+font-style: normal !important;
+}
+
+
+@media (min-width: 980px) {
+.banner-wrap .banner_caption {
+position: relative !important;
+}
+.banner-wrap .banner_caption {
+padding-top: 33px !important;
+}}
