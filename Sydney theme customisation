@@ -1,0 +1,66 @@
+/* Enter Your Custom CSS Here */
+
+.header-slider {
+    height: 600px !important;
+}
+
+#mainnav ul li a:hover{
+  color: #fff;
+}
+
+#main-navigation li a {
+    color: white !important;
+}
+#mainnav ul li a, #mainnav ul li::before {
+   font-size: 23px;
+    color: white;
+}
+
+#mainnav li:hover {
+  background-color:#31a047;
+  color:yellow;
+} 
+
+* css coeds form NYC */
+
+.widget_sydney_latest_news .roll-button {
+ display: none;
+}
+
+.body > .preloader{ display: none; }
+.widget-area .widget {
+ padding-top: 0;
+}
+.site-info {
+ text-align: center;
+}
+
+/* Page Builder Post Loop Carousel */
+
+.vantage-carousel-wrapper .vantage-carousel li.carousel-entry .thumbnail a {
+width: 342px !important;
+height: 262px !important;
+background-size: 342px 262px !important;
+}
+
+.sow-carousel-title {
+text-align: center;
+} 
+
+/* codes for slider screen less in mobile view */
+@media only screen and (max-width:1024px) {
+  
+  .site-logo {
+    padding-top: 0;
+  }
+  
+}
+
+
+@media only screen and (max-width:991px) {
+  
+  .header-slider {
+    height: calc(100vh - 250px) !important;
+  }
+  
+}
