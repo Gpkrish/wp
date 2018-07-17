@@ -1,0 +1,101 @@
+.header_top.clearfix {
+  background-color: #ffffff;
+  color: #ffffff;
+  float: none;
+  position: relative;
+}
+
+#menu-main-menu.main_menu_nav {
+  text-align: right;
+  text-transform: capitalize;
+  font-family: poppins;
+  float: right;
+}
+
+.top_nav .top_nav_wrapper {
+  text-align: right;
+  text-transform: uppercase;
+  background-color: #0683ad;
+}
+
+.header_top .container {
+  color: #135285;
+}
+
+.icon_text .text {
+  color: #f2ff00;
+  text-decoration: none;
+  font-weight: 200;
+  font-size: 16px;
+}
+
+.fa.fa-facebook {
+  color: #1768b3;
+}
+
+.fa.fa-twitter {
+  color: #1c90ad;
+}
+
+.fa.fa-google-plus {
+  color: #db1b1b;
+}
+
+.top_nav_wrapper.clearfix {
+  float: right;
+  opacity: 1;
+  color: #ffffff;
+  text-transform: capitalize;
+  text-align: right;
+}
+
+.top_nav .top_nav_wrapper > ul > li:hover > a {
+  text-align: justify;
+}
+
+.top_nav .top_nav_wrapper > ul > li > a {
+  text-align: left;
+}
+
+#menu-gmenu.main_menu_nav {
+  text-align: right;
+  float: right;
+}
+
+.icon_text .icon i {
+  text-align: left;
+}
+
+under customise option theme option
++++++++++++++++++++++
+
+#cdctps_slider {
+margin-top: -40px !important;
+}
+
+ul.tp-revslider-mainul, ul.tp-revslider-mainul li {
+   overflow: visible !important;
+    height: 80vh !important;
+}
+body.boxed_layout {
+background-image: none !important;
+background-color: #fff !important;
+}
+body.boxed_layout #wrapper {
+    margin: 0 auto !important;
+}
+.cdctps_front {
+z-index:1;
+position: relative;
+}
+
+body #footer .copyright_row .copyright_row_wr .copyright { 
+font-size: 15px; 
+color: #ffffff; 
+}
+
+body.header_style_6 .header_top .top_nav .top_nav_wrapper>ul>li>a, body.header_style_6 .header_top .top_nav .main_menu_nav>ul>li>a {
+    padding: 10px 18px 10px 10px !important;
+}
+
+#footer.style_2 .socials ul { margin: 0 auto; display: inline-block; }
